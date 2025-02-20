@@ -22,5 +22,4 @@ To run the application
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/ac346e6b-ce5e-465b-ac54-88d06ac6b8ab)
-(https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
